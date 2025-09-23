@@ -1,0 +1,14 @@
+\documentclass[12pt,border={1mm 1mm 1mm 1mm}]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor,graphpap,graphicx}\parindent0pt\renewenvironment{figure}{}{}
+\begin{document}
+\setlength{\unitlength}{1cm}
+\begin{picture}(6.5,7.5)
+%\textcolor{gray}{\graphpaper[1](0,0)(6,8)}
+\put(0,0){\resizebox{7cm}{!}{\input{fig.TpX}}}
+\put(2.2,7.05){\makebox(0,0)[l]{\fontsize{9pt}{8pt}\selectfont $1^\circ$ año}}
+\put(2.2,6.02){\makebox(0,0)[l]{\fontsize{9pt}{8pt}\selectfont $3^\circ$ año}}
+\put(4.9,7.05){\makebox(0,0)[l]{\fontsize{9pt}{8pt}\selectfont $2^\circ$ año}}
+\put(4.9,6.02){\makebox(0,0)[l]{\fontsize{9pt}{8pt}\selectfont $4^\circ$ año}}
+\end{picture}
+\end{document}

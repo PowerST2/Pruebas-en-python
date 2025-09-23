@@ -1,0 +1,29 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <circle x="60.1123" y="80.0237" d="19.8843" lw="2.00"/>
+%  <line x1="68.8534" y1="84.6514" x2="59.9936" y2="80.0237" lw="2.00"/>
+%  <line x1="59.9936" y1="80.0632" x2="59.9936" y2="69.9773" lw="2.00"/>
+%  <line x1="51.292" y1="84.6514" x2="60.1518" y2="80.0237" lw="2.00"/>
+%  <circle x="90.2059" y="80.0237" d="19.8843" lw="2.00"/>
+%  <line x1="98.9471" y1="84.6514" x2="90.0872" y2="80.0237" lw="2.00"/>
+%  <line x1="90.0872" y1="80.0632" x2="90.0872" y2="69.9773" lw="2.00"/>
+%  <line x1="81.3856" y1="84.6514" x2="90.2455" y2="80.0237" lw="2.00"/>
+%  <circle x="120.188" y="80.0237" d="19.8843" lw="2.00"/>
+%  <line x1="128.929" y1="84.6514" x2="120.069" y2="80.0237" lw="2.00"/>
+%  <line x1="120.069" y1="80.0632" x2="120.069" y2="69.9773" lw="2.00"/>
+%  <line x1="111.367" y1="84.6514" x2="120.227" y2="80.0237" lw="2.00"/>
+%  <line x1="160.086" y1="80.0237" x2="160.086" y2="80.0237" li="none"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(322.91, 68.00)(0,0)
+  \put(0,0){\includegraphics{fig.pdf}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(322.91, 68.00)(0,0)
+  \put(0,0){\includegraphics{fig}}
+  \end{picture}%
+\fi
+\end{figure}

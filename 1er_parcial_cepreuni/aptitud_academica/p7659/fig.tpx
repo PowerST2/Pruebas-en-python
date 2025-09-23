@@ -1,0 +1,89 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <polyline lw="2.00">85.2027,0.0216088 0.0150386,0.0632791 0.0120803,66.4728</polyline>
+%  <rect x="9.96778" y="0.0531111" w="9.9557" h="37.8065" lw="2.00"/>
+%  <line x1="19.9235" y1="9.97731" x2="10.0938" y2="9.97731" lw="2.00"/>
+%  <line x1="19.9235" y1="16.1524" x2="10.0938" y2="16.1524" lw="2.00"/>
+%  <line x1="19.9235" y1="25.0999" x2="10.0938" y2="25.0999" lw="2.00"/>
+%  <rect x="30.0052" y="0.0531134" w="9.95568" h="56.4955" lw="2.00"/>
+%  <line x1="39.9609" y1="16.1524" x2="30.1312" y2="16.1524" lw="2.00"/>
+%  <line x1="39.9609" y1="25.0999" x2="30.1312" y2="25.0999" lw="2.00"/>
+%  <line x1="39.9609" y1="39.9704" x2="30.1312" y2="39.9704" lw="2.00"/>
+%  <rect x="50.0426" y="0.0216084" w="9.9557" h="47.3841" lw="2.00"/>
+%  <line x1="59.9983" y1="13.884" x2="50.1687" y2="13.884" lw="2.00"/>
+%  <line x1="59.9983" y1="25.0999" x2="50.1687" y2="25.0999" lw="2.00"/>
+%  <line x1="59.9983" y1="36.3158" x2="50.1687" y2="36.3158" lw="2.00"/>
+%  <rect x="70.0801" y="0.0216044" w="9.95566" h="60.0241" lw="2.00"/>
+%  <line x1="80.0358" y1="19.933" x2="70.2061" y2="19.933" lw="2.00"/>
+%  <line x1="80.0358" y1="32.1571" x2="70.2061" y2="32.1571" lw="2.00"/>
+%  <line x1="80.0358" y1="47.9098" x2="70.2061" y2="47.9098" lw="2.00"/>
+%  <rect x="9.94385" y="0.0420883" w="9.95571" h="9.95571" li="none" lw="2.00" ha="4"/>
+%  <rect x="9.88085" y="9.99466" w="9.95572" h="6.11205" li="none" lw="2.00" ha="2"/>
+%  <rect x="9.81783" y="16.3588" w="10.0817" h="8.82152" li="none" lw="2.00" ha="3"/>
+%  <rect x="9.94386" y="25.111" w="9.8927" h="12.7282" li="none" lw="2.00" ha="1"/>
+%  <rect x="29.9813" y="39.95" w="10.0187" h="16.5089" li="none" lw="2.00" ha="1"/>
+%  <rect x="49.8928" y="36.3584" w="10.0817" h="11.0269" li="none" lw="2.00" ha="1"/>
+%  <rect x="70.0827" y="47.9713" w="9.95572" h="12.0981" li="none" lw="2.00" ha="1"/>
+%  <rect x="70.1457" y="32.247" w="9.8297" h="15.7527" li="none" lw="2.00" ha="3"/>
+%  <rect x="50.1083" y="25.1299" w="9.95572" h="11.279" li="none" lw="2.00" ha="3"/>
+%  <rect x="30.0708" y="25.1929" w="9.89271" h="14.8076" li="none" lw="2.00" ha="3"/>
+%  <rect x="30.0872" y="16.1697" w="9.95572" h="9.07357" li="none" lw="2.00" ha="2"/>
+%  <rect x="50.2948" y="13.9013" w="9.70368" h="11.468" li="none" lw="2.00" ha="2"/>
+%  <rect x="70.1432" y="19.9472" w="9.89272" h="12.2871" li="none" lw="2.00" ha="2"/>
+%  <rect x="29.9423" y="0.083038" w="10.0187" h="16.1938" li="none" lw="2.00" ha="4"/>
+%  <rect x="50.1058" y="0.146049" w="9.89272" h="13.7994" li="none" lw="2.00" ha="4"/>
+%  <rect x="70.0802" y="0.20906" w="10.0187" h="19.8484" li="none" lw="2.00" ha="4"/>
+%  <rect x="15.0427" y="95.076" w="4.99021" h="4.99021" ha="4"/>
+%  <rect x="54.9644" y="95.076" w="4.99021" h="4.99021" ha="2"/>
+%  <rect x="15.0427" y="79.7489" w="4.99021" h="4.99021" ha="3"/>
+%  <rect x="54.9644" y="79.7489" w="4.99021" h="4.99021" ha="1"/>
+%  <line x1="0.0120973" y1="9.97652" x2="90.1177" y2="9.97652" li="dot" ha="1"/>
+%  <line x1="0.0120973" y1="20.0583" x2="90.1177" y2="20.0583" li="dot" ha="1"/>
+%  <line x1="0.0120973" y1="29.888" x2="90.1177" y2="29.888" li="dot" ha="1"/>
+%  <line x1="0.0120973" y1="39.9697" x2="90.1177" y2="39.9697" li="dot" ha="1"/>
+%  <line x1="0.0120973" y1="50.0515" x2="90.1177" y2="50.0515" li="dot" ha="1"/>
+%  <line x1="0.0120973" y1="59.8812" x2="90.1177" y2="59.8812" li="dot" ha="1"/>
+%  <text x="14.7567" y="-4.13163" t="2015" h="4" halign="c" li="dot" ha="1"/>
+%  <text x="34.9202" y="-4.13163" t="2016" h="4" halign="c" li="dot" ha="1"/>
+%  <text x="54.9576" y="-4.13163" t="2017" h="4" halign="c" li="dot" ha="1"/>
+%  <text x="75.1211" y="-4.13163" t="2018" h="4" halign="c" li="dot" ha="1"/>
+%  <text x="-0.744034" y="8.92424" t="50" h="4" halign="r" li="dot" ha="1"/>
+%  <text x="-0.744034" y="19.006" t="100" h="4" halign="r" li="dot" ha="1"/>
+%  <text x="-0.744034" y="28.5836" t="150" h="4" halign="r" li="dot" ha="1"/>
+%  <text x="-0.744034" y="38.6654" t="200" h="4" halign="r" li="dot" ha="1"/>
+%  <text x="-0.744034" y="48.7471" t="250" h="4" halign="r" li="dot" ha="1"/>
+%  <text x="-0.744034" y="58.5768" t="300" h="4" halign="r" li="dot" ha="1"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(285.91, 309.15)(0,0)
+  \put(0,0){\includegraphics{fig.pdf}}
+  \put(66.62,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2015}}
+  \put(123.77,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2016}}
+  \put(180.57,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2017}}
+  \put(237.73,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2018}}
+  \put(22.68,45.13){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{50}}
+  \put(22.68,73.71){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{100}}
+  \put(22.68,100.85){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{150}}
+  \put(22.68,129.43){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{200}}
+  \put(22.68,158.01){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{250}}
+  \put(22.68,185.87){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{300}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(285.91, 309.15)(0,0)
+  \put(0,0){\includegraphics{fig}}
+  \put(66.62,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2015}}
+  \put(123.77,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2016}}
+  \put(180.57,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2017}}
+  \put(237.73,8.12){\fontsize{11.38}{13.66}\selectfont \makebox[0pt]{2018}}
+  \put(22.68,45.13){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{50}}
+  \put(22.68,73.71){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{100}}
+  \put(22.68,100.85){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{150}}
+  \put(22.68,129.43){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{200}}
+  \put(22.68,158.01){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{250}}
+  \put(22.68,185.87){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{300}}
+  \end{picture}%
+\fi
+\end{figure}

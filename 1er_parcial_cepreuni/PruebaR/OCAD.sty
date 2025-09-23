@@ -1,0 +1,96 @@
+% OCAD.sty - Paquete básico para documentos CEPRE-UNI
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{OCAD}[2025/09/23 Basic OCAD package]
+
+\RequirePackage{graphicx}
+\RequirePackage{enumerate}
+\RequirePackage[spanish]{babel}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{amsfonts}
+
+% Comando para incluir figuras con escala
+\newcommand{\pg}[2]{\includegraphics[scale=#1]{#2}}
+
+% Comando para crear opciones de respuesta (choices to display)
+\newcommand{\ctd}[5]{
+\begin{enumerate}[A)]
+\item #1
+\item #2  
+\item #3
+\item #4
+\item #5
+\end{enumerate}
+}
+
+% Comando para opciones de verdadero/falso
+\newcommand{\ctdt}[5]{
+\begin{enumerate}[A)]
+\item #1
+\item #2  
+\item #3
+\item #4
+\item #5
+\end{enumerate}
+}
+
+% Comandos de abreviación comunes
+\newcommand{\al}{\alpha}
+\newcommand{\bt}{\beta}
+\newcommand{\gm}{\gamma}
+\newcommand{\dl}{\delta}
+\newcommand{\ep}{\epsilon}
+\newcommand{\te}{\theta}
+\newcommand{\lm}{\lambda}
+\newcommand{\sg}{\sigma}
+\newcommand{\om}{\omega}
+
+% Comando para fracciones
+\newcommand{\df}[2]{$\dfrac{#1}{#2}$}
+
+% Comando para llaves grandes
+\newcommand{\lr}[1]{\left\{#1\right\}}
+
+% Comandos matemáticos adicionales
+\newcommand{\ds}{\displaystyle}
+\newcommand{\cv}{\cap}
+
+% Comandos trigonométricos
+\newcommand{\se}{\sin}
+\newcommand{\co}{\cos}
+\newcommand{\ta}{\tan}
+\newcommand{\rc}[1]{\sqrt{#1}}
+\newcommand{\enp}[1]{\left(#1\right)}
+\newcommand{\enl}[1]{\left\{#1\right\}}
+\newcommand{\ig}[2]{\includegraphics[#1]{#2}}
+
+% Comandos adicionales para símbolos matemáticos
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+
+% Entorno para mantener preguntas completas en una página
+\RequirePackage{needspace}
+
+% Comando para pregunta completa que no se divide entre páginas
+\newcommand{\preguntacompleta}[3]{
+\needspace{8\baselineskip}% Requiere al menos 8 líneas de espacio
+\begin{samepage}
+\item \import{#1}{#2}
+\rpt{#3}
+\end{samepage}
+}
+
+% Comando para títulos de sección que siempre aparecen en la parte superior de columna
+\newcommand{\tituloseccion}[1]{
+% Si estamos en la mitad inferior de una columna, forzar salto a la siguiente columna
+% En formato twocolumn, cada columna tiene aproximadamente 0.45\textheight
+% Pedimos 0.25\textheight para asegurar que esté en la parte superior
+\needspace{0.25\textheight}
+\begin{center}
+\textbf{#1}
+\end{center}
+}
+
+\endinput

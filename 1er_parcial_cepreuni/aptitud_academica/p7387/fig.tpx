@@ -1,0 +1,24 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <rect x="76.9328" y="63.999" w="13.5997" h="13.5998" rotdeg="45.1846" lw="2.00"/>
+%  <polygon lw="2.00">51.5012,64.3573 58.2649,78.0101 65.154,64.3573</polygon>
+%  <polygon lw="2.00">133.356,77.9969 140.133,77.9969 143.845,71.0476 140.091,64.1121 133.315,64.1121 129.865,71.096</polygon>
+%  <polygon lw="2.00">133.356,77.9969 140.133,77.9969 143.845,71.0476 140.091,64.1121 133.315,64.1121 129.865,71.096</polygon>
+%  <polygon lw="2.00">133.356,77.9969 140.133,77.9969 143.845,71.0476 140.091,64.1121 133.315,64.1121 129.865,71.096</polygon>
+%  <polygon lw="2.00">133.356,77.9969 140.133,77.9969 143.845,71.0476 140.091,64.1121 133.315,64.1121 129.865,71.096</polygon>
+%  <polygon lw="2.00">117.918,83.0985 110.902,74.8548 111.104,64.1614 124.883,64.1614 124.758,74.6794</polygon>
+%  <rect x="91.1499" y="64.1846" w="13.5998" h="13.5998" lw="2.00"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(273.10, 65.86)(0,0)
+  \put(0,0){\includegraphics{fig.pdf}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(273.10, 65.86)(0,0)
+  \put(0,0){\includegraphics{fig}}
+  \end{picture}%
+\fi
+\end{figure}
